@@ -507,10 +507,25 @@ En cuanto a los resultados del modelo de acuerdo a la matriz de confusión, ést
 **Limitaciones/Próximos Pasos**
 Sin observaciones.
 
-Enlaces de interés
-Proyecto_3_Riesgo_Relativo.pdf
-Dashboard 
-Proyecto 3 Riesgo Relativo Matriz de confusion.ipynb
-Proyecto 3  Riesgo Relativo Análisis Bancario (M. Bobadilla)
-Presentación video
+**Enlaces de interés**
+
+[Proyecto_3_Riesgo_Relativo.pdf](https://drive.google.com/file/d/1ws1om_FeAC3lTGDj2if46MP8QsVhcLmj/view?usp=drive_link)
+
+
+[Dashboard](https://lookerstudio.google.com/reporting/f3bf4299-e090-4b0e-9043-0110cf64ccc3) 
+
+
+[Proyecto 3 Riesgo Relativo Matriz de confusion.ipynb](https://colab.research.google.com/drive/1prdVy0Z4MhFwBQAdp48CzWua8iK8tmdu?usp=sharing)
+
+
+[Proyecto 3  Riesgo Relativo Análisis Bancario (M. Bobadilla)](https://docs.google.com/presentation/d/1_Y92Fv69cQo3SMJMb2j6CGvj83PefTUt40iuy1YE4VU/edit?usp=sharing)
+
+
+[Presentación video](https://www.loom.com/share/4c3831ccf421481484991de5001eefb9?sid=c0f6ed5c-079a-49be-9af0-f9fffd9dd35f)
+
+
+
+
+
+
 
